@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Tester class for DriversLicense – collects user input and displays the license report.
  * 
- * @author Oladimeji [041024469]
+ * @author Oladimeji 
  * @version 1.0
  */
 public class Tester {
