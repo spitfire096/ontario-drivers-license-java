@@ -8,9 +8,9 @@ A clean and well-structured **Object-Oriented Java** project that models a reali
 ## Features
 
 - **16 encapsulated attributes** based on real Ontario driver's license data
-- Proper **constructor chaining** (No-arg → Partial → Full)
+- Proper **constructor chaining** (No-arg to Partial → Full)
 - Dynamic date handling using `java.time` API (age, expiry, issuance calculations)
-- Height conversion (cm → inches)
+- Height conversion (cm to inches)
 - Formatted license report generation
 - Interactive console input with `Scanner`
 - Comprehensive **JUnit 4** testing with 18+ assertions covering normal and boundary cases
