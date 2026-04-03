@@ -1,0 +1,20 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+*.class
+
+# Generated Javadoc
+javadoc/
+doc/
+
+# Maven / Gradle (if you ever add them)
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
