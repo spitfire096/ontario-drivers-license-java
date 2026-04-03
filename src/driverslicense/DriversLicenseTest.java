@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 /**
  * Represents an Ontario Driver's License with relevant attributes and computations.
- * @author Oladimeji [041024469]
+ * @author Oladimeji 
  * @version 1.0
  */
 
